@@ -1,0 +1,369 @@
+2016-12-5 0:31:50 ActiveProc=2 calc.out PID=2194 Stopped-->Running    CPU_Efficiency=0.00000
+2016-12-5 0:31:51 ActiveProc=2 calc.out PID=2194 Running-->Stopped    CPU_Efficiency=0.00000
+2016-12-5 0:31:51 ActiveProc=2 calcMul.out PID=2176 Stopped-->Running    CPU_Efficiency=40.14994
+2016-12-5 0:31:52 ActiveProc=2 calcMul.out PID=2176 Running-->Stopped    CPU_Efficiency=28.65104
+2016-12-5 0:31:52 ActiveProc=2 calc.out PID=2194 Stopped-->Running    CPU_Efficiency=57.14630
+2016-12-5 0:31:53 ActiveProc=2 calc.out PID=2194 Running-->Stopped    CPU_Efficiency=44.33918
+2016-12-5 0:31:53 ActiveProc=2 calcMul.out PID=2176 Stopped-->Running    CPU_Efficiency=66.61077
+2016-12-5 0:31:54 ActiveProc=2 calcMul.out PID=2176 Running-->Stopped    CPU_Efficiency=54.48422
+2016-12-5 0:31:54 ActiveProc=2 calc.out PID=2194 Stopped-->Running    CPU_Efficiency=72.55711
+2016-12-5 0:31:55 ActiveProc=2 calc.out PID=2194 Running-->Stopped    CPU_Efficiency=61.38054
+2016-12-5 0:31:55 ActiveProc=2 calcMul.out PID=2176 Stopped-->Running    CPU_Efficiency=76.65291
+2016-12-5 0:31:55 ActiveProc=2 calcMul.out PID=2176 Running-->Stopped    CPU_Efficiency=66.45281
+2016-12-5 0:31:55 ActiveProc=2 calc.out PID=2194 Stopped-->Running    CPU_Efficiency=79.63410
+2016-12-5 0:31:56 ActiveProc=2 calc.out PID=2194 Running-->Stopped    CPU_Efficiency=70.31984
+2016-12-5 0:31:56 ActiveProc=2 calcMul.out PID=2176 Stopped-->Running    CPU_Efficiency=81.93317
+2016-12-5 0:31:57 ActiveProc=2 calcMul.out PID=2176 Running-->Stopped    CPU_Efficiency=73.33800
+2016-12-5 0:31:57 ActiveProc=2 calc.out PID=2194 Stopped-->Running    CPU_Efficiency=83.73440
+2016-12-5 0:31:58 ActiveProc=2 calc.out PID=2194 Running-->Stopped    CPU_Efficiency=75.83256
+2016-12-5 0:31:58 ActiveProc=2 calcMul.out PID=2176 Stopped-->Running    CPU_Efficiency=85.19308
+2016-12-5 0:31:59 ActiveProc=2 calcMul.out PID=2176 Running-->Stopped    CPU_Efficiency=77.82576
+2016-12-5 0:31:59 ActiveProc=2 calc.out PID=2194 Stopped-->Running    CPU_Efficiency=86.40156
+2016-12-5 0:31:59 ActiveProc=2 calc.out PID=2194 Running-->Stopped    CPU_Efficiency=79.52786
+2016-12-5 0:31:59 ActiveProc=2 calcMul.out PID=2176 Stopped-->Running    CPU_Efficiency=87.38815
+2016-12-5 0:32:0 ActiveProc=2 calcMul.out PID=2176 Running-->Stopped    CPU_Efficiency=80.99687
+2016-12-5 0:32:0 ActiveProc=2 calc.out PID=2194 Stopped-->Running    CPU_Efficiency=88.23765
+2016-12-5 0:32:1 ActiveProc=2 calc.out PID=2194 Running-->Stopped    CPU_Efficiency=82.20916
+2016-12-5 0:32:1 ActiveProc=2 calcMul.out PID=2176 Stopped-->Running    CPU_Efficiency=88.97836
+2016-12-5 0:32:2 ActiveProc=2 calcMul.out PID=2176 Running-->Stopped    CPU_Efficiency=83.29230
+2016-12-5 0:32:2 ActiveProc=2 calc.out PID=2194 Stopped-->Running    CPU_Efficiency=89.61226
+2016-12-5 0:32:3 ActiveProc=2 calc.out PID=2194 Running-->Stopped    CPU_Efficiency=84.23517
+2016-12-5 0:32:3 ActiveProc=2 calcMul.out PID=2176 Stopped-->Running    CPU_Efficiency=90.18072
+2016-12-5 0:32:3 ActiveProc=2 calcMul.out PID=2176 Running-->Exited    CPU_Efficiency=90.12921
+2016-12-5 0:32:3 ActiveProc=1 calc.out PID=2194 Stopped-->Running    CPU_Efficiency=90.04267
+2016-12-5 0:32:4 ActiveProc=1 calc.out PID=2194 Running-->Stopped    CPU_Efficiency=84.96648
+2016-12-5 0:32:4 ActiveProc=1 calc.out PID=2194 Stopped-->Running    CPU_Efficiency=90.54799
+2016-12-5 0:32:4 ActiveProc=1 calc.out PID=2194 Running-->Exited    CPU_Efficiency=90.81837
+2016-12-5 0:35:35 ActiveProc=2 calc.out PID=2868 Stopped-->Running    CPU_Efficiency=0.00000
+2016-12-5 0:35:36 ActiveProc=2 calc.out PID=2868 Running-->Stopped    CPU_Efficiency=0.00000
+2016-12-5 0:35:36 ActiveProc=2 calcMul.out PID=2853 Stopped-->Running    CPU_Efficiency=41.51565
+2016-12-5 0:35:37 ActiveProc=2 calcMul.out PID=2853 Running-->Stopped    CPU_Efficiency=29.32519
+2016-12-5 0:35:37 ActiveProc=2 calc.out PID=2868 Stopped-->Running    CPU_Efficiency=58.49128
+2016-12-5 0:35:38 ActiveProc=2 calc.out PID=2868 Running-->Stopped    CPU_Efficiency=45.04153
+2016-12-5 0:35:38 ActiveProc=2 calcMul.out PID=2853 Stopped-->Running    CPU_Efficiency=67.56524
+2016-12-5 0:35:39 ActiveProc=2 calcMul.out PID=2853 Running-->Stopped    CPU_Efficiency=55.10103
+2016-12-5 0:35:39 ActiveProc=2 calc.out PID=2868 Stopped-->Running    CPU_Efficiency=73.42043
+2016-12-5 0:35:40 ActiveProc=2 calc.out PID=2868 Running-->Stopped    CPU_Efficiency=62.07644
+2016-12-5 0:35:40 ActiveProc=2 calcMul.out PID=2853 Stopped-->Running    CPU_Efficiency=77.40435
+2016-12-5 0:35:40 ActiveProc=2 calcMul.out PID=2853 Running-->Stopped    CPU_Efficiency=67.04598
+2016-12-5 0:35:40 ActiveProc=2 calc.out PID=2868 Stopped-->Running    CPU_Efficiency=80.29089
+2016-12-5 0:35:41 ActiveProc=2 calc.out PID=2868 Running-->Stopped    CPU_Efficiency=70.79050
+2016-12-5 0:35:41 ActiveProc=2 calcMul.out PID=2853 Stopped-->Running    CPU_Efficiency=82.52627
+2016-12-5 0:35:42 ActiveProc=2 calcMul.out PID=2853 Running-->Stopped    CPU_Efficiency=73.83427
+2016-12-5 0:35:42 ActiveProc=2 calc.out PID=2868 Stopped-->Running    CPU_Efficiency=84.25834
+2016-12-5 0:35:43 ActiveProc=2 calc.out PID=2868 Running-->Stopped    CPU_Efficiency=76.23526
+2016-12-5 0:35:43 ActiveProc=2 calcMul.out PID=2853 Stopped-->Running    CPU_Efficiency=85.67763
+2016-12-5 0:40:16 ActiveProc=7 calc2.out PID=3318 Stopped-->Running    CPU_Efficiency=0.00000
+2016-12-5 0:40:16 ActiveProc=7 calc2.out PID=3318 Running-->Stopped    CPU_Efficiency=0.00000
+2016-12-5 0:40:16 ActiveProc=7 calc3.out PID=3333 Stopped-->Running    CPU_Efficiency=28.65431
+2016-12-5 0:40:17 ActiveProc=7 calc3.out PID=3333 Running-->Stopped    CPU_Efficiency=22.27792
+2016-12-5 0:40:17 ActiveProc=7 calc4.out PID=3348 Stopped-->Running    CPU_Efficiency=44.44620
+2016-12-5 0:40:18 ActiveProc=7 calc4.out PID=3348 Running-->Stopped    CPU_Efficiency=36.39786
+2016-12-5 0:40:18 ActiveProc=7 calc5.out PID=3363 Stopped-->Running    CPU_Efficiency=54.40910
+2016-12-5 0:40:19 ActiveProc=7 calc5.out PID=3363 Running-->Stopped    CPU_Efficiency=46.06827
+2016-12-5 0:40:19 ActiveProc=7 calcMul.out PID=3378 Stopped-->Running    CPU_Efficiency=61.30867
+2016-12-5 0:40:20 ActiveProc=7 calcMul.out PID=3378 Running-->Stopped    CPU_Efficiency=53.18722
+2016-12-5 0:40:20 ActiveProc=7 calc.out PID=3393 Stopped-->Running    CPU_Efficiency=66.35586
+2016-12-5 0:40:21 ActiveProc=7 calc.out PID=3393 Running-->Stopped    CPU_Efficiency=58.58882
+2016-12-5 0:40:21 ActiveProc=7 calc1.out PID=3303 Stopped-->Running    CPU_Efficiency=70.20282
+2016-12-5 0:40:21 ActiveProc=7 calc1.out PID=3303 Running-->Stopped    CPU_Efficiency=62.84596
+2016-12-5 0:40:21 ActiveProc=7 calc2.out PID=3318 Stopped-->Running    CPU_Efficiency=73.20765
+2016-12-5 0:40:22 ActiveProc=7 calc2.out PID=3318 Running-->Stopped    CPU_Efficiency=66.29206
+2016-12-5 0:40:22 ActiveProc=7 calc3.out PID=3333 Stopped-->Running    CPU_Efficiency=75.64560
+2016-12-5 0:40:23 ActiveProc=7 calc3.out PID=3333 Running-->Stopped    CPU_Efficiency=68.99767
+2016-12-5 0:40:23 ActiveProc=7 calc4.out PID=3348 Stopped-->Running    CPU_Efficiency=77.71666
+2016-12-5 0:40:24 ActiveProc=7 calc4.out PID=3348 Running-->Stopped    CPU_Efficiency=71.52317
+2016-12-5 0:40:24 ActiveProc=7 calc5.out PID=3363 Stopped-->Running    CPU_Efficiency=79.42954
+2016-12-5 0:40:25 ActiveProc=7 calc5.out PID=3363 Running-->Stopped    CPU_Efficiency=73.58495
+2016-12-5 0:40:25 ActiveProc=7 calcMul.out PID=3378 Stopped-->Running    CPU_Efficiency=80.88692
+2016-12-5 0:40:25 ActiveProc=7 calcMul.out PID=3378 Running-->Stopped    CPU_Efficiency=75.36520
+2016-12-5 0:40:25 ActiveProc=7 calc.out PID=3393 Stopped-->Running    CPU_Efficiency=82.13940
+2016-12-5 0:40:26 ActiveProc=7 calc.out PID=3393 Running-->Stopped    CPU_Efficiency=76.89391
+2016-12-5 0:40:26 ActiveProc=7 calc1.out PID=3303 Stopped-->Running    CPU_Efficiency=83.21221
+2016-12-5 0:40:27 ActiveProc=7 calc1.out PID=3303 Running-->Stopped    CPU_Efficiency=78.17347
+2016-12-5 0:40:27 ActiveProc=7 calc2.out PID=3318 Stopped-->Running    CPU_Efficiency=84.17850
+2016-12-5 0:40:28 ActiveProc=7 calc2.out PID=3318 Running-->Stopped    CPU_Efficiency=79.37571
+2016-12-5 0:40:28 ActiveProc=7 calc3.out PID=3333 Stopped-->Running    CPU_Efficiency=85.00347
+2016-12-5 0:40:29 ActiveProc=7 calc3.out PID=3333 Running-->Stopped    CPU_Efficiency=80.43115
+2016-12-5 0:40:29 ActiveProc=7 calc4.out PID=3348 Stopped-->Running    CPU_Efficiency=85.76390
+2016-12-5 0:40:30 ActiveProc=7 calc4.out PID=3348 Running-->Stopped    CPU_Efficiency=81.40360
+2016-12-5 0:40:30 ActiveProc=7 calc5.out PID=3363 Stopped-->Running    CPU_Efficiency=86.44637
+2016-12-5 0:40:30 ActiveProc=7 calc5.out PID=3363 Running-->Stopped    CPU_Efficiency=82.25568
+2016-12-5 0:40:30 ActiveProc=7 calcMul.out PID=3378 Stopped-->Running    CPU_Efficiency=87.06248
+2016-12-5 0:40:31 ActiveProc=7 calcMul.out PID=3378 Running-->Stopped    CPU_Efficiency=83.04789
+2016-12-5 0:40:31 ActiveProc=7 calc.out PID=3393 Stopped-->Running    CPU_Efficiency=87.61874
+2016-12-5 0:40:32 ActiveProc=7 calc.out PID=3393 Running-->Stopped    CPU_Efficiency=83.76091
+2016-12-5 0:40:32 ActiveProc=7 calc1.out PID=3303 Stopped-->Running    CPU_Efficiency=88.12554
+2016-12-5 0:40:33 ActiveProc=7 calc1.out PID=3303 Running-->Stopped    CPU_Efficiency=84.41340
+2016-12-5 0:40:33 ActiveProc=7 calc2.out PID=3318 Stopped-->Running    CPU_Efficiency=88.58876
+2016-12-5 0:40:34 ActiveProc=7 calc2.out PID=3318 Running-->Stopped    CPU_Efficiency=85.01699
+2016-12-5 0:40:34 ActiveProc=7 calc3.out PID=3333 Stopped-->Running    CPU_Efficiency=89.01129
+2016-12-5 0:40:35 ActiveProc=7 calc3.out PID=3333 Running-->Stopped    CPU_Efficiency=85.56747
+2016-12-5 0:40:35 ActiveProc=7 calc4.out PID=3348 Stopped-->Running    CPU_Efficiency=89.39734
+2016-12-5 0:40:35 ActiveProc=7 calc4.out PID=3348 Running-->Stopped    CPU_Efficiency=86.04440
+2016-12-5 0:40:35 ActiveProc=7 calc5.out PID=3363 Stopped-->Running    CPU_Efficiency=89.76087
+2016-12-5 0:40:36 ActiveProc=7 calc5.out PID=3363 Running-->Stopped    CPU_Efficiency=86.53569
+2016-12-5 0:40:36 ActiveProc=7 calcMul.out PID=3378 Stopped-->Running    CPU_Efficiency=90.09190
+2016-12-5 0:40:37 ActiveProc=7 calcMul.out PID=3378 Running-->Stopped    CPU_Efficiency=86.95546
+2016-12-5 0:40:37 ActiveProc=7 calc.out PID=3393 Stopped-->Running    CPU_Efficiency=90.39965
+2016-12-5 0:40:38 ActiveProc=7 calc.out PID=3393 Running-->Stopped    CPU_Efficiency=87.36793
+2016-12-5 0:40:38 ActiveProc=7 calc1.out PID=3303 Stopped-->Running    CPU_Efficiency=90.68458
+2016-12-5 0:40:39 ActiveProc=7 calc1.out PID=3303 Running-->Stopped    CPU_Efficiency=87.74250
+2016-12-5 0:40:39 ActiveProc=7 calc2.out PID=3318 Stopped-->Running    CPU_Efficiency=90.95390
+2016-12-5 0:40:39 ActiveProc=7 calc2.out PID=3318 Running-->Stopped    CPU_Efficiency=88.08547
+2016-12-5 0:40:40 ActiveProc=7 calc3.out PID=3333 Stopped-->Running    CPU_Efficiency=91.20845
+2016-12-5 0:40:40 ActiveProc=7 calc3.out PID=3333 Running-->Stopped    CPU_Efficiency=88.43210
+2016-12-5 0:40:40 ActiveProc=7 calc4.out PID=3348 Stopped-->Running    CPU_Efficiency=91.43148
+2016-12-5 0:40:41 ActiveProc=7 calc4.out PID=3348 Running-->Stopped    CPU_Efficiency=88.73638
+2016-12-5 0:40:41 ActiveProc=7 calc5.out PID=3363 Stopped-->Running    CPU_Efficiency=91.65032
+2016-12-5 0:40:42 ActiveProc=7 calc5.out PID=3363 Running-->Stopped    CPU_Efficiency=89.02860
+2016-12-5 0:40:42 ActiveProc=7 calcMul.out PID=3378 Stopped-->Running    CPU_Efficiency=91.85544
+2016-12-5 0:40:43 ActiveProc=7 calcMul.out PID=3378 Running-->Stopped    CPU_Efficiency=89.29757
+2016-12-5 0:40:43 ActiveProc=7 calc.out PID=3393 Stopped-->Running    CPU_Efficiency=92.05707
+2016-12-5 0:40:44 ActiveProc=7 calc.out PID=3393 Running-->Stopped    CPU_Efficiency=89.56070
+2016-12-5 0:40:44 ActiveProc=7 calc1.out PID=3303 Stopped-->Running    CPU_Efficiency=92.24826
+2016-12-5 0:40:44 ActiveProc=7 calc1.out PID=3303 Running-->Stopped    CPU_Efficiency=89.81942
+2016-12-5 0:40:44 ActiveProc=7 calc2.out PID=3318 Stopped-->Running    CPU_Efficiency=92.42828
+2016-12-5 0:40:45 ActiveProc=7 calc2.out PID=3318 Running-->Stopped    CPU_Efficiency=90.03730
+2016-12-5 0:40:45 ActiveProc=7 calc3.out PID=3333 Stopped-->Running    CPU_Efficiency=92.58768
+2016-12-5 0:40:46 ActiveProc=7 calc3.out PID=3333 Running-->Stopped    CPU_Efficiency=90.27089
+2016-12-5 0:40:46 ActiveProc=7 calc4.out PID=3348 Stopped-->Running    CPU_Efficiency=92.74993
+2016-12-5 0:40:47 ActiveProc=7 calc4.out PID=3348 Running-->Stopped    CPU_Efficiency=90.49323
+2016-12-5 0:40:47 ActiveProc=7 calc5.out PID=3363 Stopped-->Running    CPU_Efficiency=92.90072
+2016-12-5 0:40:48 ActiveProc=7 calc5.out PID=3363 Running-->Stopped    CPU_Efficiency=90.67599
+2016-12-5 0:40:48 ActiveProc=7 calcMul.out PID=3378 Stopped-->Running    CPU_Efficiency=93.04296
+2016-12-5 0:40:49 ActiveProc=7 calcMul.out PID=3378 Running-->Stopped    CPU_Efficiency=90.88249
+2016-12-5 0:40:49 ActiveProc=7 calc.out PID=3393 Stopped-->Running    CPU_Efficiency=93.18363
+2016-12-5 0:40:49 ActiveProc=7 calc.out PID=3393 Running-->Stopped    CPU_Efficiency=91.06360
+2016-12-5 0:40:49 ActiveProc=7 calc1.out PID=3303 Stopped-->Running    CPU_Efficiency=93.31714
+2016-12-5 0:40:50 ActiveProc=7 calc1.out PID=3303 Running-->Stopped    CPU_Efficiency=91.24142
+2016-12-5 0:40:50 ActiveProc=7 calc2.out PID=3318 Stopped-->Running    CPU_Efficiency=93.44462
+2016-12-5 0:40:51 ActiveProc=7 calc2.out PID=3318 Running-->Stopped    CPU_Efficiency=91.40925
+2016-12-5 0:40:51 ActiveProc=7 calc3.out PID=3333 Stopped-->Running    CPU_Efficiency=93.55070
+2016-12-5 0:40:52 ActiveProc=7 calc3.out PID=3333 Running-->Stopped    CPU_Efficiency=91.56691
+2016-12-5 0:40:52 ActiveProc=7 calc4.out PID=3348 Stopped-->Running    CPU_Efficiency=93.66596
+2016-12-5 0:40:53 ActiveProc=7 calc4.out PID=3348 Running-->Stopped    CPU_Efficiency=91.72255
+2016-12-5 0:40:53 ActiveProc=7 calc5.out PID=3363 Stopped-->Running    CPU_Efficiency=93.76823
+2016-12-5 0:40:53 ActiveProc=7 calc5.out PID=3363 Running-->Stopped    CPU_Efficiency=91.84781
+2016-12-5 0:40:53 ActiveProc=7 calcMul.out PID=3378 Stopped-->Running    CPU_Efficiency=93.87668
+2016-12-5 0:40:54 ActiveProc=7 calcMul.out PID=3378 Running-->Stopped    CPU_Efficiency=92.00678
+2016-12-5 0:40:54 ActiveProc=7 calc.out PID=3393 Stopped-->Running    CPU_Efficiency=93.97548
+2016-12-5 0:40:55 ActiveProc=7 calc.out PID=3393 Running-->Stopped    CPU_Efficiency=92.13249
+2016-12-5 0:40:55 ActiveProc=7 calc1.out PID=3303 Stopped-->Running    CPU_Efficiency=94.07230
+2016-12-5 0:40:56 ActiveProc=7 calc1.out PID=3303 Running-->Stopped    CPU_Efficiency=92.27190
+2016-12-5 0:40:56 ActiveProc=7 calc2.out PID=3318 Stopped-->Running    CPU_Efficiency=94.16458
+2016-12-5 0:40:57 ActiveProc=7 calc2.out PID=3318 Running-->Stopped    CPU_Efficiency=92.39639
+2016-12-5 0:40:57 ActiveProc=7 calc3.out PID=3333 Stopped-->Running    CPU_Efficiency=94.25251
+2016-12-5 0:40:57 ActiveProc=7 calc3.out PID=3333 Running-->Exited    CPU_Efficiency=94.22420
+2016-12-5 0:40:57 ActiveProc=6 calc4.out PID=3348 Stopped-->Running    CPU_Efficiency=94.18453
+2016-12-5 0:40:57 ActiveProc=6 calc4.out PID=3348 Running-->Exited    CPU_Efficiency=94.16455
+2016-12-5 0:40:57 ActiveProc=5 calc5.out PID=3363 Stopped-->Running    CPU_Efficiency=94.10607
+2016-12-5 0:40:58 ActiveProc=5 calc5.out PID=3363 Running-->Stopped    CPU_Efficiency=92.37610
+2016-12-5 0:40:58 ActiveProc=5 calcMul.out PID=3378 Stopped-->Running    CPU_Efficiency=94.19440
+2016-12-5 0:40:58 ActiveProc=5 calcMul.out PID=3378 Running-->Exited    CPU_Efficiency=94.16764
+2016-12-5 0:40:58 ActiveProc=4 calc.out PID=3393 Stopped-->Running    CPU_Efficiency=94.13293
+2016-12-5 0:40:59 ActiveProc=4 calc.out PID=3393 Running-->Stopped    CPU_Efficiency=92.43335
+2016-12-5 0:40:59 ActiveProc=4 calc1.out PID=3303 Stopped-->Running    CPU_Efficiency=94.21774
+2016-12-5 0:40:59 ActiveProc=4 calc1.out PID=3303 Running-->Exited    CPU_Efficiency=94.19194
+2016-12-5 0:40:59 ActiveProc=3 calc2.out PID=3318 Stopped-->Running    CPU_Efficiency=94.16118
+2016-12-5 0:40:59 ActiveProc=3 calc2.out PID=3318 Running-->Exited    CPU_Efficiency=94.14539
+2016-12-5 0:40:59 ActiveProc=2 calc5.out PID=3363 Stopped-->Running    CPU_Efficiency=94.09530
+2016-12-5 0:40:59 ActiveProc=2 calc5.out PID=3363 Running-->Exited    CPU_Efficiency=94.12136
+2016-12-5 0:40:59 ActiveProc=1 calc.out PID=3393 Stopped-->Running    CPU_Efficiency=94.08493
+2016-12-5 0:41:0 ActiveProc=1 calc.out PID=3393 Running-->Exited    CPU_Efficiency=94.15522
+2016-12-5 0:49:0 ActiveProc=3 calc2.out PID=5153 Stopped-->Running    CPU_Efficiency=0.00000
+2016-12-5 0:49:1 ActiveProc=3 calc2.out PID=5153 Running-->Stopped    CPU_Efficiency=0.00000
+2016-12-5 0:49:1 ActiveProc=3 calc.out PID=5168 Stopped-->Running    CPU_Efficiency=37.88270
+2016-12-5 0:49:2 ActiveProc=3 calc.out PID=5168 Running-->Stopped    CPU_Efficiency=27.47699
+2016-12-5 0:49:2 ActiveProc=3 calc1.out PID=5138 Stopped-->Running    CPU_Efficiency=54.79822
+2016-12-5 0:49:3 ActiveProc=3 calc1.out PID=5138 Running-->Stopped    CPU_Efficiency=43.00126
+2016-12-5 0:49:3 ActiveProc=3 calc2.out PID=5153 Stopped-->Running    CPU_Efficiency=64.39770
+2016-12-5 0:49:3 ActiveProc=3 calc2.out PID=5153 Running-->Stopped    CPU_Efficiency=53.00256
+2016-12-5 0:49:3 ActiveProc=3 calc.out PID=5168 Stopped-->Running    CPU_Efficiency=70.57773
+2016-12-5 0:49:4 ActiveProc=3 calc.out PID=5168 Running-->Stopped    CPU_Efficiency=59.88094
+2016-12-5 0:49:4 ActiveProc=3 calc1.out PID=5138 Stopped-->Running    CPU_Efficiency=74.91343
+2016-12-5 0:49:5 ActiveProc=3 calc1.out PID=5138 Running-->Stopped    CPU_Efficiency=65.12850
+2016-12-5 0:49:5 ActiveProc=3 calc2.out PID=5153 Stopped-->Running    CPU_Efficiency=78.03986
+2016-12-5 0:49:6 ActiveProc=3 calc2.out PID=5153 Running-->Stopped    CPU_Efficiency=69.05712
+2016-12-5 0:49:6 ActiveProc=3 calc.out PID=5168 Stopped-->Running    CPU_Efficiency=80.45541
+2016-12-5 0:49:7 ActiveProc=3 calc.out PID=5168 Running-->Stopped    CPU_Efficiency=72.18273
+2016-12-5 0:49:7 ActiveProc=3 calc1.out PID=5138 Stopped-->Running    CPU_Efficiency=82.36304
+2016-12-5 0:49:8 ActiveProc=3 calc1.out PID=5138 Running-->Stopped    CPU_Efficiency=74.70580
+2016-12-5 0:49:8 ActiveProc=3 calc2.out PID=5153 Stopped-->Running    CPU_Efficiency=83.92355
+2016-12-5 0:49:8 ActiveProc=3 calc2.out PID=5153 Running-->Stopped    CPU_Efficiency=76.76984
+2016-12-5 0:49:8 ActiveProc=3 calc.out PID=5168 Stopped-->Running    CPU_Efficiency=85.22580
+2016-12-5 0:49:9 ActiveProc=3 calc.out PID=5168 Running-->Stopped    CPU_Efficiency=78.55780
+2016-12-5 0:49:9 ActiveProc=3 calc1.out PID=5138 Stopped-->Running    CPU_Efficiency=86.29773
+2016-12-5 0:49:10 ActiveProc=3 calc1.out PID=5138 Running-->Stopped    CPU_Efficiency=80.00168
+2016-12-5 0:49:10 ActiveProc=3 calc2.out PID=5153 Stopped-->Running    CPU_Efficiency=87.21326
+2016-12-5 0:49:11 ActiveProc=3 calc2.out PID=5153 Running-->Stopped    CPU_Efficiency=81.32128
+2016-12-5 0:49:11 ActiveProc=3 calc.out PID=5168 Stopped-->Running    CPU_Efficiency=87.99717
+2016-12-5 0:49:12 ActiveProc=3 calc.out PID=5168 Running-->Stopped    CPU_Efficiency=82.43167
+2016-12-5 0:49:12 ActiveProc=3 calc1.out PID=5138 Stopped-->Running    CPU_Efficiency=88.70295
+2016-12-5 0:49:12 ActiveProc=3 calc1.out PID=5138 Running-->Stopped    CPU_Efficiency=83.43402
+2016-12-5 0:49:12 ActiveProc=3 calc2.out PID=5153 Stopped-->Running    CPU_Efficiency=89.32043
+2016-12-5 0:49:13 ActiveProc=3 calc2.out PID=5153 Running-->Stopped    CPU_Efficiency=84.26513
+2016-12-5 0:49:13 ActiveProc=3 calc.out PID=5168 Stopped-->Running    CPU_Efficiency=89.86895
+2016-12-5 0:49:14 ActiveProc=3 calc.out PID=5168 Running-->Stopped    CPU_Efficiency=85.10331
+2016-12-5 0:49:14 ActiveProc=3 calc1.out PID=5138 Stopped-->Running    CPU_Efficiency=90.34299
+2016-12-5 0:49:15 ActiveProc=3 calc1.out PID=5138 Running-->Stopped    CPU_Efficiency=85.78857
+2016-12-5 0:49:15 ActiveProc=3 calc2.out PID=5153 Stopped-->Running    CPU_Efficiency=90.78523
+2016-12-5 0:49:16 ActiveProc=3 calc2.out PID=5153 Running-->Stopped    CPU_Efficiency=86.42034
+2016-12-5 0:49:16 ActiveProc=3 calc.out PID=5168 Stopped-->Running    CPU_Efficiency=91.17500
+2016-12-5 0:49:17 ActiveProc=3 calc.out PID=5168 Running-->Stopped    CPU_Efficiency=87.00958
+2016-12-5 0:49:17 ActiveProc=3 calc1.out PID=5138 Stopped-->Running    CPU_Efficiency=91.53020
+2016-12-5 0:49:17 ActiveProc=3 calc1.out PID=5138 Running-->Stopped    CPU_Efficiency=87.53898
+2016-12-5 0:49:17 ActiveProc=3 calc2.out PID=5153 Stopped-->Running    CPU_Efficiency=91.85592
+2016-12-5 0:49:18 ActiveProc=3 calc2.out PID=5153 Running-->Stopped    CPU_Efficiency=88.01670
+2016-12-5 0:49:18 ActiveProc=3 calc.out PID=5168 Stopped-->Running    CPU_Efficiency=92.15105
+2016-12-5 0:49:19 ActiveProc=3 calc.out PID=5168 Running-->Stopped    CPU_Efficiency=88.45642
+2016-12-5 0:49:19 ActiveProc=3 calc1.out PID=5138 Stopped-->Running    CPU_Efficiency=92.42130
+2016-12-5 0:49:19 ActiveProc=3 calc1.out PID=5138 Running-->Exited    CPU_Efficiency=92.47119
+2016-12-5 0:49:19 ActiveProc=2 calc2.out PID=5153 Stopped-->Running    CPU_Efficiency=92.39155
+2016-12-5 0:49:20 ActiveProc=2 calc2.out PID=5153 Running-->Exited    CPU_Efficiency=92.41384
+2016-12-5 0:49:20 ActiveProc=1 calc.out PID=5168 Stopped-->Running    CPU_Efficiency=92.33364
+2016-12-5 0:49:20 ActiveProc=1 calc.out PID=5168 Running-->Stopped    CPU_Efficiency=88.85381
+2016-12-5 0:49:20 ActiveProc=1 calc.out PID=5168 Stopped-->Running    CPU_Efficiency=92.58495
+2016-12-5 0:49:20 ActiveProc=1 calc.out PID=5168 Running-->Exited    CPU_Efficiency=92.55186
+2016-12-5 2:17:39 ActiveProc=3 calc2.out PID=6550 Stopped-->Running    CPU_Efficiency=0.00000
+2016-12-5 2:17:40 ActiveProc=3 calc2.out PID=6550 Running-->Stopped    CPU_Efficiency=0.00000
+2016-12-5 2:17:40 ActiveProc=3 calc.out PID=6565 Stopped-->Running    CPU_Efficiency=38.44250
+2016-12-5 2:17:41 ActiveProc=3 calc.out PID=6565 Running-->Stopped    CPU_Efficiency=27.82696
+2016-12-5 2:17:41 ActiveProc=3 calc1.out PID=6535 Stopped-->Running    CPU_Efficiency=55.22882
+2016-12-5 2:17:42 ActiveProc=3 calc1.out PID=6535 Running-->Stopped    CPU_Efficiency=43.32195
+2016-12-5 2:17:42 ActiveProc=3 calc2.out PID=6550 Stopped-->Running    CPU_Efficiency=64.74452
+2016-12-5 2:17:42 ActiveProc=3 calc2.out PID=6550 Running-->Stopped    CPU_Efficiency=53.24456
+2016-12-5 2:17:42 ActiveProc=3 calc.out PID=6565 Stopped-->Running    CPU_Efficiency=70.84997
+2016-12-5 2:17:43 ActiveProc=3 calc.out PID=6565 Running-->Stopped    CPU_Efficiency=60.20254
+2016-12-5 2:17:43 ActiveProc=3 calc1.out PID=6535 Stopped-->Running    CPU_Efficiency=75.10033
+2016-12-5 2:17:44 ActiveProc=3 calc1.out PID=6535 Running-->Stopped    CPU_Efficiency=65.22789
+2016-12-5 2:17:44 ActiveProc=3 calc2.out PID=6550 Stopped-->Running    CPU_Efficiency=78.26650
+2016-12-5 2:17:45 ActiveProc=3 calc2.out PID=6550 Running-->Stopped    CPU_Efficiency=69.24117
+2016-12-5 2:17:45 ActiveProc=3 calc.out PID=6565 Stopped-->Running    CPU_Efficiency=80.67847
+2016-12-5 2:17:46 ActiveProc=3 calc.out PID=6565 Running-->Stopped    CPU_Efficiency=72.35413
+2016-12-5 2:17:46 ActiveProc=3 calc1.out PID=6535 Stopped-->Running    CPU_Efficiency=82.58959
+2016-12-5 2:17:47 ActiveProc=3 calc1.out PID=6535 Running-->Stopped    CPU_Efficiency=74.88701
+2016-12-5 2:17:47 ActiveProc=3 calc2.out PID=6550 Stopped-->Running    CPU_Efficiency=84.12155
+2016-12-5 2:17:47 ActiveProc=3 calc2.out PID=6550 Running-->Stopped    CPU_Efficiency=76.94274
+2016-12-5 2:17:47 ActiveProc=3 calc.out PID=6565 Stopped-->Running    CPU_Efficiency=85.39124
+2016-12-5 2:17:48 ActiveProc=3 calc.out PID=6565 Running-->Stopped    CPU_Efficiency=78.68679
+2016-12-5 2:17:48 ActiveProc=3 calc1.out PID=6535 Stopped-->Running    CPU_Efficiency=86.44691
+2016-12-5 2:17:49 ActiveProc=3 calc1.out PID=6535 Running-->Stopped    CPU_Efficiency=80.14800
+2016-12-5 2:17:49 ActiveProc=3 calc2.out PID=6550 Stopped-->Running    CPU_Efficiency=87.37346
+2016-12-5 2:17:50 ActiveProc=3 calc2.out PID=6550 Running-->Stopped    CPU_Efficiency=81.39102
+2016-12-5 2:17:50 ActiveProc=3 calc.out PID=6565 Stopped-->Running    CPU_Efficiency=88.17623
+2016-12-5 2:17:51 ActiveProc=3 calc.out PID=6565 Running-->Stopped    CPU_Efficiency=82.58284
+2016-12-5 2:17:51 ActiveProc=3 calc1.out PID=6535 Stopped-->Running    CPU_Efficiency=88.85791
+2016-12-5 2:17:52 ActiveProc=3 calc1.out PID=6535 Running-->Stopped    CPU_Efficiency=83.56726
+2016-12-5 2:17:52 ActiveProc=3 calc2.out PID=6550 Stopped-->Running    CPU_Efficiency=89.47034
+2016-12-5 2:17:52 ActiveProc=3 calc2.out PID=6550 Running-->Stopped    CPU_Efficiency=84.45419
+2016-12-5 2:17:52 ActiveProc=3 calc.out PID=6565 Stopped-->Running    CPU_Efficiency=90.00418
+2016-12-5 2:17:53 ActiveProc=3 calc.out PID=6565 Running-->Stopped    CPU_Efficiency=85.18714
+2016-12-5 2:17:53 ActiveProc=3 calc1.out PID=6535 Stopped-->Running    CPU_Efficiency=90.46385
+2016-12-5 2:17:54 ActiveProc=3 calc1.out PID=6535 Running-->Stopped    CPU_Efficiency=85.88736
+2016-12-5 2:17:54 ActiveProc=3 calc2.out PID=6550 Stopped-->Running    CPU_Efficiency=90.89859
+2016-12-5 2:17:55 ActiveProc=3 calc2.out PID=6550 Running-->Stopped    CPU_Efficiency=86.54454
+2016-12-5 2:17:55 ActiveProc=3 calc.out PID=6565 Stopped-->Running    CPU_Efficiency=91.27857
+2016-12-5 2:17:56 ActiveProc=3 calc.out PID=6565 Running-->Stopped    CPU_Efficiency=87.09552
+2016-12-5 2:17:56 ActiveProc=3 calc1.out PID=6535 Stopped-->Running    CPU_Efficiency=91.63934
+2016-12-5 2:17:56 ActiveProc=3 calc1.out PID=6535 Running-->Stopped    CPU_Efficiency=87.61284
+2016-12-5 2:17:56 ActiveProc=3 calc2.out PID=6550 Stopped-->Running    CPU_Efficiency=91.96938
+2016-12-5 2:17:57 ActiveProc=3 calc2.out PID=6550 Running-->Stopped    CPU_Efficiency=88.12568
+2016-12-5 2:17:57 ActiveProc=3 calc.out PID=6565 Stopped-->Running    CPU_Efficiency=92.26202
+2016-12-5 2:17:58 ActiveProc=3 calc.out PID=6565 Running-->Stopped    CPU_Efficiency=88.55898
+2016-12-5 2:17:58 ActiveProc=3 calc1.out PID=6535 Stopped-->Running    CPU_Efficiency=92.52735
+2016-12-5 2:17:59 ActiveProc=3 calc1.out PID=6535 Running-->Stopped    CPU_Efficiency=88.95752
+2016-12-5 2:17:59 ActiveProc=3 calc2.out PID=6550 Stopped-->Running    CPU_Efficiency=92.77407
+2016-12-5 2:17:59 ActiveProc=3 calc2.out PID=6550 Running-->Exited    CPU_Efficiency=92.72298
+2016-12-5 2:17:59 ActiveProc=2 calc.out PID=6565 Stopped-->Running    CPU_Efficiency=92.65619
+2016-12-5 2:17:59 ActiveProc=2 calc.out PID=6565 Running-->Exited    CPU_Efficiency=92.74499
+2016-12-5 2:17:59 ActiveProc=1 calc1.out PID=6535 Stopped-->Running    CPU_Efficiency=92.68039
+2016-12-5 2:18:0 ActiveProc=1 calc1.out PID=6535 Running-->Stopped    CPU_Efficiency=89.30779
+2016-12-5 2:18:0 ActiveProc=1 calc1.out PID=6535 Stopped-->Running    CPU_Efficiency=92.90703
+2016-12-5 2:18:0 ActiveProc=1 calc1.out PID=6535 Running-->Exited    CPU_Efficiency=92.88051
+2016-12-5 2:32:12 ActiveProc=2 calc.out PID=7395 Stopped-->Running    CPU_Eff=0.00000   Throughput=0.00000
+2016-12-5 2:32:12 ActiveProc=2 calc.out PID=7395 Running-->Stopped    CPU_Eff=0.00000   Throughput=0.00000
+2016-12-5 2:32:12 ActiveProc=2 calc1.out PID=7379 Stopped-->Running    CPU_Eff=41.48544   Throughput=0.00000
+2016-12-5 2:32:13 ActiveProc=2 calc1.out PID=7379 Running-->Stopped    CPU_Eff=29.30876   Throughput=0.00000
+2016-12-5 2:32:13 ActiveProc=2 calc.out PID=7395 Stopped-->Running    CPU_Eff=58.50978   Throughput=0.00000
+2016-12-5 2:32:14 ActiveProc=2 calc.out PID=7395 Running-->Stopped    CPU_Eff=45.32059   Throughput=0.00000
+2016-12-5 2:32:14 ActiveProc=2 calc1.out PID=7379 Stopped-->Running    CPU_Eff=67.71854   Throughput=0.00000
+2016-12-5 2:32:15 ActiveProc=2 calc1.out PID=7379 Running-->Stopped    CPU_Eff=55.33870   Throughput=0.00000
+2016-12-5 2:32:15 ActiveProc=2 calc.out PID=7395 Stopped-->Running    CPU_Eff=73.49989   Throughput=0.00000
+2016-12-5 2:32:16 ActiveProc=2 calc.out PID=7395 Running-->Stopped    CPU_Eff=62.14257   Throughput=0.00000
+2016-12-5 2:32:16 ActiveProc=2 calc1.out PID=7379 Stopped-->Running    CPU_Eff=77.47938   Throughput=0.00000
+2016-12-5 2:32:17 ActiveProc=2 calc1.out PID=7379 Running-->Stopped    CPU_Eff=67.02934   Throughput=0.00000
+2016-12-5 2:32:17 ActiveProc=2 calc.out PID=7395 Stopped-->Running    CPU_Eff=80.36047   Throughput=0.00000
+2016-12-5 2:32:17 ActiveProc=2 calc.out PID=7395 Running-->Stopped    CPU_Eff=70.88090   Throughput=0.00000
+2016-12-5 2:32:17 ActiveProc=2 calc1.out PID=7379 Stopped-->Running    CPU_Eff=82.58258   Throughput=0.00000
+2016-12-5 2:32:18 ActiveProc=2 calc1.out PID=7379 Running-->Stopped    CPU_Eff=73.86633   Throughput=0.00000
+2016-12-5 2:32:18 ActiveProc=2 calc.out PID=7395 Stopped-->Running    CPU_Eff=84.31974   Throughput=0.00000
+2016-12-5 2:32:19 ActiveProc=2 calc.out PID=7395 Running-->Stopped    CPU_Eff=76.27337   Throughput=0.00000
+2016-12-5 2:32:19 ActiveProc=2 calc1.out PID=7379 Stopped-->Running    CPU_Eff=85.72697   Throughput=0.00000
+2016-12-5 2:32:20 ActiveProc=2 calc1.out PID=7379 Running-->Stopped    CPU_Eff=78.27561   Throughput=0.00000
+2016-12-5 2:32:20 ActiveProc=2 calc.out PID=7395 Stopped-->Running    CPU_Eff=86.90184   Throughput=0.00000
+2016-12-5 2:32:21 ActiveProc=2 calc.out PID=7395 Running-->Stopped    CPU_Eff=79.93618   Throughput=0.00000
+2016-12-5 2:32:21 ActiveProc=2 calc1.out PID=7379 Stopped-->Running    CPU_Eff=87.88219   Throughput=0.00000
+2016-12-5 2:32:21 ActiveProc=2 calc1.out PID=7379 Running-->Stopped    CPU_Eff=81.39922   Throughput=0.00000
+2016-12-5 2:32:21 ActiveProc=2 calc.out PID=7395 Stopped-->Running    CPU_Eff=88.71846   Throughput=0.00000
+2016-12-5 2:32:22 ActiveProc=2 calc.out PID=7395 Running-->Stopped    CPU_Eff=82.63435   Throughput=0.00000
+2016-12-5 2:32:22 ActiveProc=2 calc1.out PID=7379 Stopped-->Running    CPU_Eff=89.43337   Throughput=0.00000
+2016-12-5 2:32:23 ActiveProc=2 calc1.out PID=7379 Running-->Stopped    CPU_Eff=83.69747   Throughput=0.00000
+2016-12-5 2:32:23 ActiveProc=2 calc.out PID=7395 Stopped-->Running    CPU_Eff=90.04123   Throughput=0.00000
+2016-12-5 2:32:24 ActiveProc=2 calc.out PID=7395 Running-->Stopped    CPU_Eff=84.62563   Throughput=0.00000
+2016-12-5 2:32:24 ActiveProc=2 calc1.out PID=7379 Stopped-->Running    CPU_Eff=90.57366   Throughput=0.00000
+2016-12-5 2:32:25 ActiveProc=2 calc1.out PID=7379 Running-->Stopped    CPU_Eff=85.43627   Throughput=0.00000
+2016-12-5 2:32:25 ActiveProc=2 calc.out PID=7395 Stopped-->Running    CPU_Eff=91.04712   Throughput=0.00000
+2016-12-5 2:32:25 ActiveProc=2 calc.out PID=7395 Running-->Exited    CPU_Eff=91.28600   Throughput=6.76135
+2016-12-5 2:32:25 ActiveProc=1 calc1.out PID=7379 Stopped-->Running    CPU_Eff=91.19005   Throughput=6.75363
+2016-12-5 2:32:25 ActiveProc=1 calc1.out PID=7379 Running-->Exited    CPU_Eff=91.13821   Throughput=13.49119
+2016-12-5 2:36:13 ActiveProc=3 calc2.out PID=8064 Stopped-->Running    CPU_Eff=0.00000   Throughput=0.00000
+2016-12-5 2:36:13 ActiveProc=3 calc2.out PID=8064 Running-->Stopped    CPU_Eff=0.00000   Throughput=0.00000
+2016-12-5 2:36:13 ActiveProc=3 calc.out PID=8079 Stopped-->Running    CPU_Eff=37.52157   Throughput=0.00000
+2016-12-5 2:36:14 ActiveProc=3 calc.out PID=8079 Running-->Stopped    CPU_Eff=27.24557   Throughput=0.00000
+2016-12-5 2:36:14 ActiveProc=3 calc1.out PID=8049 Stopped-->Running    CPU_Eff=54.47689   Throughput=0.00000
+2016-12-5 2:36:15 ActiveProc=3 calc1.out PID=8049 Running-->Stopped    CPU_Eff=42.81187   Throughput=0.00000
+2016-12-5 2:36:15 ActiveProc=3 calc2.out PID=8064 Stopped-->Running    CPU_Eff=64.16189   Throughput=0.00000
+2016-12-5 2:36:16 ActiveProc=3 calc2.out PID=8064 Running-->Stopped    CPU_Eff=52.92226   Throughput=0.00000
+2016-12-5 2:36:16 ActiveProc=3 calc.out PID=8079 Stopped-->Running    CPU_Eff=70.29800   Throughput=0.00000
+2016-12-5 2:36:17 ActiveProc=3 calc.out PID=8079 Running-->Stopped    CPU_Eff=59.82049   Throughput=0.00000
+2016-12-5 2:36:17 ActiveProc=3 calc1.out PID=8049 Stopped-->Running    CPU_Eff=74.62164   Throughput=0.00000
+2016-12-5 2:36:18 ActiveProc=3 calc1.out PID=8049 Running-->Stopped    CPU_Eff=64.97420   Throughput=0.00000
+2016-12-5 2:36:18 ActiveProc=3 calc2.out PID=8064 Stopped-->Running    CPU_Eff=77.77901   Throughput=0.00000
+2016-12-5 2:36:18 ActiveProc=3 calc2.out PID=8064 Running-->Stopped    CPU_Eff=68.86650   Throughput=0.00000
+2016-12-5 2:36:18 ActiveProc=3 calc.out PID=8079 Stopped-->Running    CPU_Eff=80.23689   Throughput=0.00000
+2016-12-5 2:36:19 ActiveProc=3 calc.out PID=8079 Running-->Stopped    CPU_Eff=72.02178   Throughput=0.00000
+2016-12-5 2:36:19 ActiveProc=3 calc1.out PID=8049 Stopped-->Running    CPU_Eff=82.18087   Throughput=0.00000
+2016-12-5 2:36:20 ActiveProc=3 calc1.out PID=8049 Running-->Stopped    CPU_Eff=74.52832   Throughput=0.00000
+2016-12-5 2:36:20 ActiveProc=3 calc2.out PID=8064 Stopped-->Running    CPU_Eff=83.76661   Throughput=0.00000
+2016-12-5 2:36:21 ActiveProc=3 calc2.out PID=8064 Running-->Stopped    CPU_Eff=76.65480   Throughput=0.00000
+2016-12-5 2:36:21 ActiveProc=3 calc.out PID=8079 Stopped-->Running    CPU_Eff=85.07740   Throughput=0.00000
+2016-12-5 2:36:22 ActiveProc=3 calc.out PID=8079 Running-->Stopped    CPU_Eff=78.43122   Throughput=0.00000
+2016-12-5 2:36:22 ActiveProc=3 calc1.out PID=8049 Stopped-->Running    CPU_Eff=86.17271   Throughput=0.00000
+2016-12-5 2:36:22 ActiveProc=3 calc1.out PID=8049 Running-->Stopped    CPU_Eff=79.90367   Throughput=0.00000
+2016-12-5 2:36:22 ActiveProc=3 calc2.out PID=8064 Stopped-->Running    CPU_Eff=87.12139   Throughput=0.00000
+2016-12-5 2:36:23 ActiveProc=3 calc2.out PID=8064 Running-->Stopped    CPU_Eff=81.20670   Throughput=0.00000
+2016-12-5 2:36:23 ActiveProc=3 calc.out PID=8079 Stopped-->Running    CPU_Eff=87.92525   Throughput=0.00000
+2016-12-5 2:36:24 ActiveProc=3 calc.out PID=8079 Running-->Stopped    CPU_Eff=82.37526   Throughput=0.00000
+2016-12-5 2:36:24 ActiveProc=3 calc1.out PID=8049 Stopped-->Running    CPU_Eff=88.63556   Throughput=0.00000
+2016-12-5 2:36:25 ActiveProc=3 calc1.out PID=8049 Running-->Stopped    CPU_Eff=83.34538   Throughput=0.00000
+2016-12-5 2:36:25 ActiveProc=3 calc2.out PID=8064 Stopped-->Running    CPU_Eff=89.25238   Throughput=0.00000
+2016-12-5 2:36:26 ActiveProc=3 calc2.out PID=8064 Running-->Stopped    CPU_Eff=84.24337   Throughput=0.00000
+2016-12-5 2:36:26 ActiveProc=3 calc.out PID=8079 Stopped-->Running    CPU_Eff=89.80016   Throughput=0.00000
+2016-12-5 2:36:27 ActiveProc=3 calc.out PID=8079 Running-->Stopped    CPU_Eff=85.03831   Throughput=0.00000
+2016-12-5 2:36:27 ActiveProc=3 calc1.out PID=8049 Stopped-->Running    CPU_Eff=90.29809   Throughput=0.00000
+2016-12-5 2:36:27 ActiveProc=3 calc1.out PID=8049 Running-->Stopped    CPU_Eff=85.74756   Throughput=0.00000
+2016-12-5 2:36:27 ActiveProc=3 calc2.out PID=8064 Stopped-->Running    CPU_Eff=90.74340   Throughput=0.00000
+2016-12-5 2:36:28 ActiveProc=3 calc2.out PID=8064 Running-->Stopped    CPU_Eff=86.35878   Throughput=0.00000
+2016-12-5 2:36:28 ActiveProc=3 calc.out PID=8079 Stopped-->Running    CPU_Eff=91.09944   Throughput=0.00000
+2016-12-5 2:36:29 ActiveProc=3 calc.out PID=8079 Running-->Stopped    CPU_Eff=86.93950   Throughput=0.00000
+2016-12-5 2:36:29 ActiveProc=3 calc1.out PID=8049 Stopped-->Running    CPU_Eff=91.46527   Throughput=0.00000
+2016-12-5 2:36:30 ActiveProc=3 calc1.out PID=8049 Running-->Stopped    CPU_Eff=87.47527   Throughput=0.00000
+2016-12-5 2:36:30 ActiveProc=3 calc2.out PID=8064 Stopped-->Running    CPU_Eff=91.78222   Throughput=0.00000
+2016-12-5 2:36:30 ActiveProc=3 calc2.out PID=8064 Running-->Exited    CPU_Eff=91.88805   Throughput=5.28749
+2016-12-5 2:36:30 ActiveProc=2 calc.out PID=8079 Stopped-->Running    CPU_Eff=91.81393   Throughput=5.28344
+2016-12-5 2:36:31 ActiveProc=2 calc.out PID=8079 Running-->Stopped    CPU_Eff=88.04736   Throughput=5.06692
+2016-12-5 2:36:31 ActiveProc=2 calc1.out PID=8049 Stopped-->Running    CPU_Eff=92.10532   Throughput=5.06692
+2016-12-5 2:36:32 ActiveProc=2 calc1.out PID=8049 Running-->Exited    CPU_Eff=92.31067   Throughput=9.80351
+2016-12-5 2:36:32 ActiveProc=1 calc.out PID=8079 Stopped-->Running    CPU_Eff=92.22702   Throughput=9.79535
+2016-12-5 2:36:32 ActiveProc=1 calc.out PID=8079 Running-->Exited    CPU_Eff=92.38222   Throughput=14.31160
